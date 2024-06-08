@@ -10,5 +10,5 @@ Este é um sistema bancário simples escrito em Python. Ele permite depositar di
 
 ## Requisitos
 
-- Python 3.x
+- Python 3
 

@@ -1,6 +1,6 @@
 # Sistema de Banco Simples
 
-Este é um sistema bancário simples escrito em Python. Ele permite criar uma conta bancária, depositar dinheiro, sacar dinheiro e verificar o saldo.
+Este é um sistema bancário simples escrito em Python. Ele permite depositar dinheiro, sacar dinheiro e verificar o saldo.
 
 ## Funcionalidades
 
